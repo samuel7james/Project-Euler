@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 unsigned long long gcd(unsigned long long a, unsigned long long b)
 {
     while (a != 0)
