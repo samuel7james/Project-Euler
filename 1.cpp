@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 unsigned long long sum(unsigned long long x)
 {
   return x * (x + 1) / 2;
