@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 unsigned int makePalindrome(unsigned int x)
 {
     unsigned int result = x * 1000;
